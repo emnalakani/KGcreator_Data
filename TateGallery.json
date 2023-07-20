@@ -1,0 +1,5583 @@
+{
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Polska", 
+      "placeName": "Polska", 
+      "placeType": "nation"
+    }, 
+    "time": {
+      "startYear": 1930
+    }
+  }, 
+  "birthYear": 1930, 
+  "date": "born 1930", 
+  "fc": "Magdalena Abakanowicz", 
+  "gender": "Female", 
+  "id": 10093, 
+  "mda": "Abakanowicz, Magdalena", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 4, 
+  "url": "http://www.tate.org.uk/art/artists/magdalena-abakanowicz-10093"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "England, United Kingdom", 
+      "placeName": "England", 
+      "placeType": "country"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Philadelphia, United States", 
+      "placeName": "Philadelphia", 
+      "placeType": "county"
+    }, 
+    "time": {
+      "startYear": 1852
+    }
+  }, 
+  "birthYear": 1852, 
+  "date": "1852\u20131911", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1911
+    }
+  }, 
+  "fc": "Edwin Austin Abbey", 
+  "gender": "Male", 
+  "id": 0, 
+  "mda": "Abbey, Edwin Austin", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 6, 
+  "url": "http://www.tate.org.uk/art/artists/edwin-austin-abbey-0"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Springfield, United States", 
+      "placeName": "Springfield", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1898
+    }
+  }, 
+  "birthYear": 1898, 
+  "date": "1898\u20131991", 
+  "death": {
+    "place": {
+      "name": "Monson, United States", 
+      "placeName": "Monson", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1991
+    }
+  }, 
+  "fc": "Berenice Abbott", 
+  "gender": "Female", 
+  "id": 2756, 
+  "mda": "Abbott, Berenice", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/berenice-abbott-2756"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Wigan, United Kingdom", 
+      "placeName": "Wigan", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1935
+    }
+  }, 
+  "birthYear": 1935, 
+  "date": "born 1935", 
+  "fc": "Ivor Abrahams", 
+  "gender": "Male", 
+  "id": 622, 
+  "mda": "Abrahams, Ivor", 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 320, 
+      "name": "Surrealism"
+    }
+  ], 
+  "startLetter": "A", 
+  "totalWorks": 108, 
+  "url": "http://www.tate.org.uk/art/artists/ivor-abrahams-622"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Wigan, United Kingdom", 
+      "placeName": "Wigan", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1935
+    }
+  }, 
+  "birthYear": 1935, 
+  "date": "born 1935", 
+  "fc": "Ivor Abrahams", 
+  "gender": "Male", 
+  "id": 622, 
+  "mda": "Abrahams, Ivor", 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 320, 
+      "name": "Surrealism"
+    }
+  ], 
+  "startLetter": "A", 
+  "totalWorks": 108, 
+  "url": "http://www.tate.org.uk/art/artists/ivor-abrahams-622"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1921
+    }
+  }, 
+  "birthYear": 1921, 
+  "date": "1921\u20131975", 
+  "death": {
+    "time": {
+      "startYear": 1975
+    }
+  }, 
+  "fc": "Michael Ayrton", 
+  "gender": "Male", 
+  "id": 681, 
+  "mda": "Ayrton, Michael", 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 312, 
+      "name": "Neo-Romanticism"
+    }
+  ], 
+  "startLetter": "A", 
+  "totalWorks": 11, 
+  "url": "http://www.tate.org.uk/art/artists/michael-ayrton-681"
+},
+{
+  "activePlaceCount": 2, 
+  "activePlaces": [
+    {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    {
+      "name": "Cornwall, United Kingdom", 
+      "placeName": "Cornwall", 
+      "placeType": "county"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1930
+    }
+  }, 
+  "birthYear": 1930, 
+  "date": "born 1930", 
+  "fc": "Gillian Ayres OBE", 
+  "gender": "Female", 
+  "id": 680, 
+  "mda": "Ayres, OBE Gillian", 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "startLetter": "A", 
+  "totalWorks": 15, 
+  "url": "http://www.tate.org.uk/art/artists/gillian-ayres-obe-680"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Qu\u00e9bec, Canada", 
+      "placeName": "Qu\u00e9bec", 
+      "placeType": "province"
+    }, 
+    "time": {
+      "startYear": 1943
+    }
+  }, 
+  "birthYear": 1943, 
+  "date": "born 1943", 
+  "death": {
+    "place": {
+      "name": "Qu\u00e9bec, Canada", 
+      "placeName": "Qu\u00e9bec", 
+      "placeType": "province"
+    }
+  }, 
+  "fc": "Pierre Ayot", 
+  "gender": "Male", 
+  "id": 679, 
+  "mda": "Ayot, Pierre", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/pierre-ayot-679"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "time": {
+      "startYear": 1751
+    }
+  }, 
+  "birthYear": 1751, 
+  "date": "1751\u20131812", 
+  "death": {
+    "time": {
+      "startYear": 1812
+    }
+  }, 
+  "fc": "Heneage Finch, Fourth Earl of Aylesford", 
+  "gender": "Male", 
+  "id": 2480, 
+  "mda": "Aylesford, Heneage Finch, Fourth Earl of", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 50, 
+  "url": "http://www.tate.org.uk/art/artists/heneage-finch-fourth-earl-of-aylesford-2480"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Altmar, United States", 
+      "placeName": "Altmar", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1893
+    }
+  }, 
+  "birthYear": 1893, 
+  "date": "1893\u20131965", 
+  "death": {
+    "place": {
+      "name": "New York, United States", 
+      "placeName": "New York", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1965
+    }
+  }, 
+  "fc": "Milton Avery", 
+  "gender": "Male", 
+  "id": 678, 
+  "mda": "Avery, Milton", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/milton-avery-678"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Leicester, United Kingdom", 
+      "placeName": "Leicester", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1895
+    }
+  }, 
+  "birthYear": 1895, 
+  "date": "1895\u20131973", 
+  "death": {
+    "time": {
+      "startYear": 1973
+    }
+  }, 
+  "fc": "Robert Austin", 
+  "gender": "Male", 
+  "id": 677, 
+  "mda": "Austin, Robert", 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }
+  ], 
+  "startLetter": "A", 
+  "totalWorks": 4, 
+  "url": "http://www.tate.org.uk/art/artists/robert-austin-677"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "France", 
+      "placeName": "France", 
+      "placeType": "nation"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Cavaillon, France", 
+      "placeName": "Cavaillon", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1968
+    }
+  }, 
+  "birthYear": 1968, 
+  "date": "born 1968", 
+  "fc": "Mathias Augustyniak", 
+  "gender": "Male", 
+  "id": 14648, 
+  "mda": "Augustyniak, Mathias", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 5, 
+  "url": "http://www.tate.org.uk/art/artists/mathias-augustyniak-14648"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "United Kingdom", 
+      "placeName": "United Kingdom", 
+      "placeType": "nation"
+    }, 
+    "time": {
+      "startYear": 1982
+    }
+  }, 
+  "birthYear": 1982, 
+  "date": "born 1982", 
+  "fc": "Ed Atkins", 
+  "gender": "Male", 
+  "id": 15601, 
+  "mda": "Atkins, Ed", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/ed-atkins-15601"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1927
+    }
+  }, 
+  "birthYear": 1927, 
+  "date": "1927\u20132005", 
+  "death": {
+    "time": {
+      "startYear": 2005
+    }
+  }, 
+  "fc": "Norman Adams", 
+  "gender": "Male", 
+  "id": 627, 
+  "mda": "Adams, Norman", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/norman-adams-627"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Udine, Italia", 
+      "placeName": "Udine", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1912
+    }
+  }, 
+  "birthYear": 1912, 
+  "date": "1912\u20131976", 
+  "death": {
+    "place": {
+      "name": "Z\u00fcrich, Schweiz", 
+      "placeName": "Z\u00fcrich", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1976
+    }
+  }, 
+  "fc": "Afro (Afro Basaldella)", 
+  "gender": "Male", 
+  "id": 632, 
+  "mda": "Afro", 
+  "movements": [], 
+  "startLetter": "A", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/afro-afro-basaldella-632"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Milano, Italia", 
+      "placeName": "Milano", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1935
+    }
+  }, 
+  "birthYear": 1930, 
+  "date": "1930\u20132004", 
+  "death": {
+    "time": {
+      "startYear": 2004
+    }
+  }, 
+  "fc": "Dadamaino", 
+  "gender": "Female", 
+  "id": 14983, 
+  "mda": "Dadamaino", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/dadamaino-14983"
+},
+{
+  "activePlaceCount": 0, 
+  "date": null, 
+  "fc": "Lady Dacre", 
+  "gender": "Female", 
+  "id": 2636, 
+  "mda": "Dacre, Lady", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/lady-dacre-2636"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Milano, Italia", 
+      "placeName": "Milano", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1935
+    }
+  }, 
+  "birthYear": 1930, 
+  "date": "1930\u20132004", 
+  "death": {
+    "time": {
+      "startYear": 2004
+    }
+  }, 
+  "fc": "Dadamaino", 
+  "gender": "Female", 
+  "id": 14983, 
+  "mda": "Dadamaino", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/dadamaino-14983"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Gillingham, United Kingdom", 
+      "placeName": "Gillingham", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1930
+    }
+  }, 
+  "birthYear": 1930, 
+  "date": "born 1930", 
+  "fc": "Peter Daglish", 
+  "gender": "Male", 
+  "id": 970, 
+  "mda": "Daglish, Peter", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/peter-daglish-970"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Gillingham, United Kingdom", 
+      "placeName": "Gillingham", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1930
+    }
+  }, 
+  "birthYear": 1930, 
+  "date": "born 1930", 
+  "fc": "Peter Daglish", 
+  "gender": "Male", 
+  "id": 970, 
+  "mda": "Daglish, Peter", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/peter-daglish-970"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Bristol, United Kingdom", 
+      "placeName": "Bristol", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1960
+    }
+  }, 
+  "birthYear": 1960, 
+  "date": "born 1960", 
+  "fc": "Dexter Dalwood", 
+  "gender": "Male", 
+  "id": 4611, 
+  "mda": "Dalwood, Dexter", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/dexter-dalwood-4611"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Wexford, \u00c9ire", 
+      "placeName": "Wexford", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1793
+    }
+  }, 
+  "birthYear": 1793, 
+  "date": "1793\u20131861", 
+  "death": {
+    "place": {
+      "name": "Exmouth, United Kingdom", 
+      "placeName": "Exmouth", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1861
+    }
+  }, 
+  "fc": "Francis Danby", 
+  "gender": "Male", 
+  "id": 135, 
+  "mda": "Danby, Francis", 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 353, 
+      "name": "Bristol School"
+    }
+  ], 
+  "startLetter": "D", 
+  "totalWorks": 7, 
+  "url": "http://www.tate.org.uk/art/artists/francis-danby-135"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Wooler, United Kingdom", 
+      "placeName": "Wooler", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1817
+    }
+  }, 
+  "birthYear": 1817, 
+  "date": "1817\u20131905", 
+  "death": {
+    "place": {
+      "name": "Hampstead, United Kingdom", 
+      "placeName": "Hampstead", 
+      "placeType": "neighbourhood"
+    }, 
+    "time": {
+      "startYear": 1905
+    }
+  }, 
+  "fc": "Edward Dalziel", 
+  "gender": "Male", 
+  "id": 133, 
+  "mda": "Dalziel, Edward", 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/edward-dalziel-133"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "Zagreb, Hrvatska", 
+      "placeName": "Zagreb", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Strumica, Makedonija", 
+      "placeName": "Strumica", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1928
+    }
+  }, 
+  "birthYear": 1928, 
+  "date": "1928\u20132009", 
+  "death": {
+    "place": {
+      "name": "Zagreb, Hrvatska", 
+      "placeName": "Zagreb", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 2009
+    }
+  }, 
+  "fc": "Dusan Dzamonja", 
+  "gender": "Male", 
+  "id": 1048, 
+  "mda": "Dzamonja, Dusan", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/dusan-dzamonja-1048"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "Winnipeg, Canada", 
+      "placeName": "Winnipeg", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Winnipeg, Canada", 
+      "placeName": "Winnipeg", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1974
+    }
+  }, 
+  "birthYear": 1974, 
+  "date": "born 1974", 
+  "fc": "Marcel Dzama", 
+  "gender": "Male", 
+  "id": 6860, 
+  "mda": "Dzama, Marcel", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 12, 
+  "url": "http://www.tate.org.uk/art/artists/marcel-dzama-6860"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Hampshire, United Kingdom", 
+      "placeName": "Hampshire", 
+      "placeType": "county"
+    }, 
+    "time": {
+      "startYear": 1883
+    }
+  }, 
+  "birthYear": 1883, 
+  "date": "1883\u20131970", 
+  "death": {
+    "time": {
+      "startYear": 1970
+    }
+  }, 
+  "fc": "Alan L. Durst", 
+  "gender": "Male", 
+  "id": 1047, 
+  "mda": "Durst, Alan L.", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/alan-l-durst-1047"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Wooler, United Kingdom", 
+      "placeName": "Wooler", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1817
+    }
+  }, 
+  "birthYear": 1817, 
+  "date": "1817\u20131905", 
+  "death": {
+    "place": {
+      "name": "Hampstead, United Kingdom", 
+      "placeName": "Hampstead", 
+      "placeType": "neighbourhood"
+    }, 
+    "time": {
+      "startYear": 1905
+    }
+  }, 
+  "fc": "Edward Dalziel", 
+  "gender": "Male", 
+  "id": 133, 
+  "mda": "Dalziel, Edward", 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/edward-dalziel-133"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Whitehaven, United Kingdom", 
+      "placeName": "Whitehaven", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1715
+    }
+  }, 
+  "birthYear": 1715, 
+  "date": "1715 or 20\u20131791", 
+  "death": {
+    "time": {
+      "startYear": 1791
+    }
+  }, 
+  "fc": "Richard Dalton", 
+  "gender": "Male", 
+  "id": 2422, 
+  "mda": "Dalton, Richard", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/richard-dalton-2422"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Wooler, United Kingdom", 
+      "placeName": "Wooler", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1817
+    }
+  }, 
+  "birthYear": 1817, 
+  "date": "1817\u20131905", 
+  "death": {
+    "place": {
+      "name": "Hampstead, United Kingdom", 
+      "placeName": "Hampstead", 
+      "placeType": "neighbourhood"
+    }, 
+    "time": {
+      "startYear": 1905
+    }
+  }, 
+  "fc": "Edward Dalziel", 
+  "gender": "Male", 
+  "id": 133, 
+  "mda": "Dalziel, Edward", 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/edward-dalziel-133"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Bristol, United Kingdom", 
+      "placeName": "Bristol", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1924
+    }
+  }, 
+  "birthYear": 1924, 
+  "date": "1924\u20131976", 
+  "death": {
+    "time": {
+      "startYear": 1976
+    }
+  }, 
+  "fc": "Hubert Dalwood", 
+  "gender": "Male", 
+  "id": 974, 
+  "mda": "Dalwood, Hubert", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 5, 
+  "url": "http://www.tate.org.uk/art/artists/hubert-dalwood-974"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Sundridge, United Kingdom", 
+      "placeName": "Sundridge", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1748
+    }
+  }, 
+  "birthYear": 1748, 
+  "date": "1748\u20131828", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1828
+    }
+  }, 
+  "fc": "Anne Seymour Damer", 
+  "gender": "Female", 
+  "id": 2553, 
+  "mda": "Damer, Anne Seymour", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/anne-seymour-damer-2553"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "Bharat", 
+      "placeName": "Bharat", 
+      "placeType": "nation"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Chertsey, United Kingdom", 
+      "placeName": "Chertsey", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1769
+    }
+  }, 
+  "birthYear": 1769, 
+  "date": "1769\u20131837", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1837
+    }
+  }, 
+  "fc": "William Daniell", 
+  "gender": "Male", 
+  "id": 138, 
+  "mda": "Daniell, William", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 612, 
+  "url": "http://www.tate.org.uk/art/artists/william-daniell-138"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Toronto, Canada", 
+      "placeName": "Toronto", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1958
+    }
+  }, 
+  "birthYear": 1958, 
+  "date": "born 1958", 
+  "fc": "Moyra Davey", 
+  "gender": "Female", 
+  "id": 14881, 
+  "mda": "Davey, Moyra", 
+  "movements": [], 
+  "startLetter": "D", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/moyra-davey-14881"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "Milano, Italia", 
+      "placeName": "Milano", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Torino, Italia", 
+      "placeName": "Torino", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1936
+    }
+  }, 
+  "birthYear": 1936, 
+  "date": "1936\u20132007", 
+  "death": {
+    "place": {
+      "name": "Milano, Italia", 
+      "placeName": "Milano", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 2007
+    }
+  }, 
+  "fc": "Luciano Fabro", 
+  "gender": "Male", 
+  "id": 1076, 
+  "mda": "Fabro, Luciano", 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 418, 
+      "name": "Arte Povera"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "startLetter": "F", 
+  "totalWorks": 8, 
+  "url": "http://www.tate.org.uk/art/artists/luciano-fabro-1076"
+},
+{
+  "activePlaceCount": 2, 
+  "activePlaces": [
+    {
+      "name": "Edinburgh, United Kingdom", 
+      "placeName": "Edinburgh", 
+      "placeType": "inhabited_place"
+    }, 
+    {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Gatehouse of Fleet, United Kingdom", 
+      "placeName": "Gatehouse of Fleet", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1826
+    }
+  }, 
+  "birthYear": 1826, 
+  "date": "1826\u20131900", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1900
+    }
+  }, 
+  "fc": "Thomas Faed", 
+  "gender": "Male", 
+  "id": 174, 
+  "mda": "Faed, Thomas", 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "startLetter": "F", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/thomas-faed-174"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1745
+    }
+  }, 
+  "birthYear": 1745, 
+  "date": "c.1745\u20131816", 
+  "death": {
+    "place": {
+      "name": "Roma, Italia", 
+      "placeName": "Roma", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1816
+    }
+  }, 
+  "fc": "Robert Fagan", 
+  "gender": "Male", 
+  "id": 175, 
+  "mda": "Fagan, Robert", 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "startLetter": "F", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/robert-fagan-175"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "United States", 
+      "placeName": "United States", 
+      "placeType": "nation"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "S\u00e3o Paulo, Brasil", 
+      "placeName": "S\u00e3o Paulo", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1928
+    }
+  }, 
+  "birthYear": 1928, 
+  "date": "1928\u20131976", 
+  "death": {
+    "place": {
+      "name": "Stockholm, Sverige", 
+      "placeName": "Stockholm", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1976
+    }
+  }, 
+  "fc": "\u00d6yvind Fahlstr\u00f6m", 
+  "gender": "Male", 
+  "id": 4773, 
+  "mda": "Fahlstr\u00f6m, \u00d6yvind", 
+  "movements": [], 
+  "startLetter": "F", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/oyvind-fahlstrom-4773"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Bridge of Allan, United Kingdom", 
+      "placeName": "Bridge of Allan", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1891
+    }
+  }, 
+  "birthYear": 1891, 
+  "date": "1891\u20131974", 
+  "death": {
+    "place": {
+      "name": "Brisbane, Australia", 
+      "placeName": "Brisbane", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1974
+    }
+  }, 
+  "fc": "Ian Fairweather", 
+  "gender": "Male", 
+  "id": 1077, 
+  "mda": "Fairweather, Ian", 
+  "movements": [], 
+  "startLetter": "F", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/ian-fairweather-1077"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Coos Bay, United States", 
+      "placeName": "Coos Bay", 
+      "placeType": "bay"
+    }, 
+    "time": {
+      "startYear": 1909
+    }
+  }, 
+  "birthYear": 1909, 
+  "date": "1909\u20131997", 
+  "death": {
+    "time": {
+      "startYear": 1997
+    }
+  }, 
+  "fc": "Claire Falkenstein", 
+  "gender": "Female", 
+  "id": 1078, 
+  "mda": "Falkenstein, Claire", 
+  "movements": [], 
+  "startLetter": "F", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/claire-falkenstein-1078"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Edinburgh, United Kingdom", 
+      "placeName": "Edinburgh", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1847
+    }
+  }, 
+  "birthYear": 1847, 
+  "date": "1847\u20131935", 
+  "death": {
+    "place": {
+      "name": "Edinburgh, United Kingdom", 
+      "placeName": "Edinburgh", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1935
+    }
+  }, 
+  "fc": "Joseph Farquharson", 
+  "gender": "Male", 
+  "id": 178, 
+  "mda": "Farquharson, Joseph", 
+  "movements": [], 
+  "startLetter": "F", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/joseph-farquharson-178"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Pune, Bharat", 
+      "placeName": "Pune", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1880
+    }
+  }, 
+  "birthYear": 1880, 
+  "date": "1880\u20131964", 
+  "death": {
+    "place": {
+      "name": "Karachi, Pakistan", 
+      "placeName": "Karachi", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1964
+    }
+  }, 
+  "fc": "Samuel Fyzee-Rahamin", 
+  "gender": "Male", 
+  "id": 1136, 
+  "mda": "Fyzee-Rahamin, Samuel", 
+  "movements": [], 
+  "startLetter": "F", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/samuel-fyzee-rahamin-1136"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Southampton, United Kingdom", 
+      "placeName": "Southampton", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1927
+    }
+  }, 
+  "birthYear": 1927, 
+  "date": "1927\u20131974", 
+  "death": {
+    "time": {
+      "startYear": 1974
+    }
+  }, 
+  "fc": "Michael Fussell", 
+  "gender": "Male", 
+  "id": 1135, 
+  "mda": "Fussell, Michael", 
+  "movements": [], 
+  "startLetter": "F", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/michael-fussell-1135"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1818
+    }
+  }, 
+  "birthYear": 1818, 
+  "date": "1818\u20131883", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1883
+    }
+  }, 
+  "fc": "Charles Vacher", 
+  "gender": "Male", 
+  "id": 561, 
+  "mda": "Vacher, Charles", 
+  "movements": [], 
+  "startLetter": "V", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/charles-vacher-561"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "time": {
+      "startYear": 1767
+    }
+  }, 
+  "birthYear": 1767, 
+  "date": "1767\u2013c.1817", 
+  "death": {
+    "time": {
+      "startYear": 1817
+    }
+  }, 
+  "fc": "Benedict Anthony Van Assen", 
+  "gender": "Male", 
+  "id": 2475, 
+  "mda": "Van Assen, Benedict Anthony", 
+  "movements": [], 
+  "startLetter": "V", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/benedict-anthony-van-assen-2475"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Antwerpen, Belgi\u00eb", 
+      "placeName": "Antwerpen", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1577
+    }
+  }, 
+  "birthYear": 1577, 
+  "date": "c.1577 or 1578\u2013c.1621 or 22", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1621
+    }
+  }, 
+  "fc": "Paul Van Somer", 
+  "gender": "Male", 
+  "id": 567, 
+  "mda": "Van Somer, Paul", 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 400, 
+      "name": "Court"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 412, 
+      "name": "Early Stuart"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 406, 
+      "name": "Netherlands-trained, working in Britain"
+    }
+  ], 
+  "startLetter": "V", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/paul-van-somer-567"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Ath\u00ednai, Ell\u00e1s", 
+      "placeName": "Ath\u00ednai", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1971
+    }
+  }, 
+  "birthYear": 1971, 
+  "date": "born 1971", 
+  "fc": "Vangelis Vlahos", 
+  "gender": "Male", 
+  "id": 12186, 
+  "mda": "Vlahos, Vangelis", 
+  "movements": [], 
+  "startLetter": "V", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/vangelis-vlahos-12186"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "time": {
+      "startYear": 1932
+    }
+  }, 
+  "birthYear": 1932, 
+  "date": "born 1932", 
+  "fc": "Jeff Verheyen", 
+  "gender": "Male", 
+  "id": 2101, 
+  "mda": "Verheyen, Jeff", 
+  "movements": [], 
+  "startLetter": "V", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/jeff-verheyen-2101"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Papendrecht, Nederland", 
+      "placeName": "Papendrecht", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1928
+    }
+  }, 
+  "birthYear": 1928, 
+  "date": "born 1928", 
+  "fc": "Carel Visser", 
+  "gender": "Male", 
+  "id": 2108, 
+  "mda": "Visser, Carel", 
+  "movements": [], 
+  "startLetter": "V", 
+  "totalWorks": 11, 
+  "url": "http://www.tate.org.uk/art/artists/carel-visser-2108"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Viet Nam", 
+      "placeName": "Viet Nam", 
+      "placeType": "nation"
+    }, 
+    "time": {
+      "startYear": 1914
+    }
+  }, 
+  "birthYear": 1914, 
+  "date": "born 1914", 
+  "fc": "Ha van Vuong", 
+  "gender": "Female", 
+  "id": 1236, 
+  "mda": "Vuong, Ha van", 
+  "movements": [], 
+  "startLetter": "V", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/ha-van-vuong-1236"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "time": {
+      "startYear": 1641
+    }
+  }, 
+  "birthYear": 1641, 
+  "date": "1641 or 2 \u20131699", 
+  "death": {
+    "time": {
+      "startYear": 1699
+    }
+  }, 
+  "fc": "Harman Verelst", 
+  "gender": "Male", 
+  "id": 2613, 
+  "mda": "Verelst, Harman", 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }
+  ], 
+  "startLetter": "V", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/harman-verelst-2613"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Sayda, Al-Lubnan", 
+      "placeName": "Sayda", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1966
+    }
+  }, 
+  "birthYear": 1966, 
+  "date": "born 1966", 
+  "fc": "Akram Zaatari", 
+  "gender": "Male", 
+  "id": 11598, 
+  "mda": "Zaatari, Akram", 
+  "movements": [], 
+  "startLetter": "Z", 
+  "totalWorks": 119, 
+  "url": "http://www.tate.org.uk/art/artists/akram-zaatari-11598"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Buenos Aires, Argentina", 
+      "placeName": "Buenos Aires", 
+      "placeType": "province"
+    }, 
+    "time": {
+      "startYear": 1943
+    }
+  }, 
+  "birthYear": 1943, 
+  "date": "born 1943", 
+  "fc": "Horacio Zabala", 
+  "gender": "Male", 
+  "id": 13771, 
+  "mda": "Zabala, Horacio", 
+  "movements": [], 
+  "startLetter": "Z", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/horacio-zabala-13771"
+},
+
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Dnepropetrovsk, Ukrayina", 
+      "placeName": "Dnepropetrovsk", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1945
+    }
+  }, 
+  "birthYear": 1945, 
+  "date": "born 1945", 
+  "fc": "Emilia Kabakov", 
+  "gender": "Female", 
+  "id": 3464, 
+  "mda": "Kabakov, Emilia", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/emilia-kabakov-3464"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Tel Aviv-Yafo, Yisra'el", 
+      "placeName": "Tel Aviv-Yafo", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1932
+    }
+  }, 
+  "birthYear": 1932, 
+  "date": "born 1932", 
+  "fc": "Menashe Kadishman", 
+  "gender": "Male", 
+  "id": 1380, 
+  "mda": "Kadishman, Menashe", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 41, 
+  "url": "http://www.tate.org.uk/art/artists/menashe-kadishman-1380"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Stuttgart, Deutschland", 
+      "placeName": "Stuttgart", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1904
+    }
+  }, 
+  "birthYear": 1904, 
+  "date": "1904\u20131979", 
+  "death": {
+    "place": {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1979
+    }
+  }, 
+  "fc": "Erich Kahn", 
+  "gender": "Male", 
+  "id": 1381, 
+  "mda": "Kahn, Erich", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/erich-kahn-1381"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Yverdon, Schweiz", 
+      "placeName": "Yverdon", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1765
+    }
+  }, 
+  "birthYear": 1765, 
+  "date": "1765\u20131833", 
+  "death": {
+    "place": {
+      "name": "Roma, Italia", 
+      "placeName": "Roma", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1833
+    }
+  }, 
+  "fc": "Franz Kaisermann", 
+  "gender": "Male", 
+  "id": 2621, 
+  "mda": "Kaisermann, Franz", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/franz-kaisermann-2621"
+},
+{
+  "activePlaceCount": 3, 
+  "activePlaces": [
+    {
+      "name": "France", 
+      "placeName": "France", 
+      "placeType": "nation"
+    }, 
+    {
+      "name": "Deutschland", 
+      "placeName": "Deutschland", 
+      "placeType": "nation"
+    }, 
+    {
+      "name": "Moskva, Rossiya", 
+      "placeName": "Moskva", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Moskva, Rossiya", 
+      "placeName": "Moskva", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1866
+    }
+  }, 
+  "birthYear": 1866, 
+  "date": "1866\u20131944", 
+  "death": {
+    "place": {
+      "name": "Neuilly-sur-Seine, France", 
+      "placeName": "Neuilly-sur-Seine", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1944
+    }
+  }, 
+  "fc": "Wassily Kandinsky", 
+  "gender": "Male", 
+  "id": 1382, 
+  "mda": "Kandinsky, Wassily", 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 294, 
+      "name": "Bauhaus"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 301, 
+      "name": "Blaue Reiter, Der"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "startLetter": "K", 
+  "totalWorks": 4, 
+  "url": "http://www.tate.org.uk/art/artists/wassily-kandinsky-1382"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Nottingham, United Kingdom", 
+      "placeName": "Nottingham", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1961
+    }
+  }, 
+  "birthYear": 1961, 
+  "date": "born 1961", 
+  "fc": "Alan Kane", 
+  "gender": "Male", 
+  "id": 7631, 
+  "mda": "Kane, Alan", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/alan-kane-7631"
+},
+{
+  "activePlaceCount": 0, 
+  "birth": {
+    "place": {
+      "name": "Fall River, United States", 
+      "placeName": "Fall River", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1929
+    }
+  }, 
+  "birthYear": 1929, 
+  "date": "1929 \u2013 2009", 
+  "death": {
+    "time": {
+      "startYear": 2009
+    }
+  }, 
+  "fc": "Howard Kanovitz", 
+  "gender": "Male", 
+  "id": 1383, 
+  "mda": "Kanovitz, Howard", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 3, 
+  "url": "http://www.tate.org.uk/art/artists/howard-kanovitz-1383"
+},
+{
+  "activePlaceCount": 2, 
+  "activePlaces": [
+    {
+      "name": "London, United Kingdom", 
+      "placeName": "London", 
+      "placeType": "inhabited_place"
+    }, 
+    {
+      "name": "Italia", 
+      "placeName": "Italia", 
+      "placeType": "nation"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Chur, Schweiz", 
+      "placeName": "Chur", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1741
+    }
+  }, 
+  "birthYear": 1741, 
+  "date": "1741\u20131807", 
+  "death": {
+    "place": {
+      "name": "Roma, Italia", 
+      "placeName": "Roma", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1807
+    }
+  }, 
+  "fc": "Angelica Kauffman", 
+  "gender": "Female", 
+  "id": 303, 
+  "mda": "Kauffman, Angelica", 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "startLetter": "K", 
+  "totalWorks": 2, 
+  "url": "http://www.tate.org.uk/art/artists/angelica-kauffman-303"
+},
+{
+  "activePlaceCount": 1, 
+  "activePlaces": [
+    {
+      "name": "Los Angeles, United States", 
+      "placeName": "Los Angeles", 
+      "placeType": "inhabited_place"
+    }
+  ], 
+  "birth": {
+    "place": {
+      "name": "Los Angeles, United States", 
+      "placeName": "Los Angeles", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 1932
+    }
+  }, 
+  "birthYear": 1932, 
+  "date": "1932\u20132010", 
+  "death": {
+    "place": {
+      "name": "Angeles, Pilipinas", 
+      "placeName": "Angeles", 
+      "placeType": "inhabited_place"
+    }, 
+    "time": {
+      "startYear": 2010
+    }
+  }, 
+  "fc": "Craig Kauffman", 
+  "gender": "Male", 
+  "id": 1387, 
+  "mda": "Kauffman, Craig", 
+  "movements": [], 
+  "startLetter": "K", 
+  "totalWorks": 1, 
+  "url": "http://www.tate.org.uk/art/artists/craig-kauffman-1387"
+},
+{
+  "acno": "A00001", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Robert Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1762, 
+      "date": "1762\u20131787", 
+      "displayOrder": 1, 
+      "fc": "Robert Blake", 
+      "gender": "Male", 
+      "id": 38, 
+      "mda": "Blake, Robert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs John Richmond 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 394 x 419 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "419", 
+  "id": 1035, 
+  "inscription": null, 
+  "medium": "Watercolour, ink, chalk and graphite on paper. Verso: graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5734, 
+                "name": "blessing"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00001_8.jpg", 
+  "title": "A Figure Bowing before a Seated Old Man with his Arm Outstretched in Benediction. Verso: Indecipherable Sketch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-a-figure-bowing-before-a-seated-old-man-with-his-arm-outstretched-in-benediction-a00001", 
+  "width": "394"
+},
+{
+  "acno": "A00002", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Robert Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1762, 
+      "date": "1762\u20131787", 
+      "displayOrder": 1, 
+      "fc": "Robert Blake", 
+      "gender": "Male", 
+      "id": 38, 
+      "mda": "Blake, Robert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs John Richmond 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 311 x 213 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "213", 
+  "id": 1036, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 273, 
+                "name": "comforting"
+              }, 
+              {
+                "id": 544, 
+                "name": "embracing"
+              }, 
+              {
+                "id": 2653, 
+                "name": "recoiling"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2815, 
+                "name": "fear"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00002_8.jpg", 
+  "title": "Two Drawings of Frightened Figures, Probably for \u2018The Approach of Doom\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-two-drawings-of-frightened-figures-probably-for-the-approach-of-doom-a00002", 
+  "width": "311"
+},
+{
+  "acno": "A00003", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Robert Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1762, 
+      "date": "1762\u20131787", 
+      "displayOrder": 1, 
+      "fc": "Robert Blake", 
+      "gender": "Male", 
+      "id": 38, 
+      "mda": "Blake, Robert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs John Richmond 1922", 
+  "dateRange": {
+    "endYear": 1785, 
+    "startYear": 1785, 
+    "text": "?c.1785"
+  }, 
+  "dateText": "?c.1785", 
+  "depth": "", 
+  "dimensions": "support: 343 x 467 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "467", 
+  "id": 1037, 
+  "inscription": null, 
+  "medium": "Graphite on paper. Verso: graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12297, 
+                "name": "preaching"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00003_8.jpg", 
+  "title": "The Preaching of Warning. Verso: An Old Man Enthroned Between Two Groups of Figures, by ?William Blake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-the-preaching-of-warning-verso-an-old-man-enthroned-between-two-groups-of-figures-by-a00003", 
+  "width": "343"
+},
+{
+  "acno": "A00004", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Robert Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1762, 
+      "date": "1762\u20131787", 
+      "displayOrder": 1, 
+      "fc": "Robert Blake", 
+      "gender": "Male", 
+      "id": 38, 
+      "mda": "Blake, Robert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs John Richmond 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 318 x 394 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "394", 
+  "id": 1038, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00004_8.jpg", 
+  "title": "Six Drawings of Figures with Outstretched Arms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-six-drawings-of-figures-with-outstretched-arms-a00004", 
+  "width": "318"
+},
+{
+  "acno": "A00005", 
+  "acquisitionYear": 1919, 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {
+    "accessionRanges": "A00005-A00011; N03351-N03370; T01950-T01956", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65478, 
+    "shortTitle": "Illustrations to Dante's 'Divine Comedy'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased with the assistance of a special grant from the National Gallery and donations from the Art Fund, Lord Duveen and others, and presented through the the Art Fund 1919", 
+  "dateRange": {
+    "endYear": 1827, 
+    "startYear": 1826, 
+    "text": "1826-7, reprinted 1892"
+  }, 
+  "dateText": "1826\u20137, reprinted 1892", 
+  "depth": "", 
+  "dimensions": "image: 243 x 335 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations to Dante's 'Divine Comedy'", 
+  "height": "335", 
+  "id": 1039, 
+  "inscription": null, 
+  "medium": "Line engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 18, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1356, 
+                "name": "Dante"
+              }, 
+              {
+                "id": 5400, 
+                "name": "Francesca da Rimini"
+              }, 
+              {
+                "id": 5401, 
+                "name": "Paolo da Rimini"
+              }, 
+              {
+                "id": 1357, 
+                "name": "Virgil"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2484, 
+                "name": "Dante, 'Divine Comedy: Inferno'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12245, 
+                "name": "aura"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3005, 
+                "name": "collapse"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }, 
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2126, 
+                "name": "floating"
+              }, 
+              {
+                "id": 1503, 
+                "name": "flying"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 600, 
+                "name": "couple"
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3008, 
+                "name": "love"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3454, 
+                "name": "whirlwind"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00005_8.jpg", 
+  "title": "The Circle of the Lustful: Francesca da Rimini (\u2018The Whirlwind of Lovers\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-the-circle-of-the-lustful-francesca-da-rimini-the-whirlwind-of-lovers-a00005", 
+  "width": "243"
+},
+{
+  "acno": "A00099", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1861, 
+    "startYear": 1861, 
+    "text": "c.1861"
+  }, 
+  "dateText": "c.1861", 
+  "depth": "", 
+  "dimensions": "support: 140 x 166 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "166", 
+  "id": 1736, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12665, 
+                "name": "Burne-Jones, Georgiana"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00099_8.jpg", 
+  "title": "Head of a Woman: ?Georgiana Burne-Jones", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-of-a-woman-georgiana-burne-jones-a00099", 
+  "width": "140"
+},
+{
+  "acno": "A00098", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1880, 
+    "startYear": 1880, 
+    "text": "c.1880"
+  }, 
+  "dateText": "c.1880", 
+  "depth": "", 
+  "dimensions": "support: 152 x 162 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "162", 
+  "id": 1735, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3395, 
+                "name": "Tennyson, Alfred, Lord, 'The Beggar Maid'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00098_8.jpg", 
+  "title": "Two Studies for the Head of the King in \u2018King Cophetua and the Beggar Maid\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-two-studies-for-the-head-of-the-king-in-king-cophetua-and-the-beggar-maid-a00098", 
+  "width": "152"
+},
+{
+  "acno": "A00097", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1861, 
+    "startYear": 1861, 
+    "text": "c.1861"
+  }, 
+  "dateText": "c.1861", 
+  "depth": "", 
+  "dimensions": "support: 186 x 140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "140", 
+  "id": 1734, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00097_8.jpg", 
+  "title": "Head of a Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-of-a-girl-a00097", 
+  "width": "186"
+},
+{
+  "acno": "A00096", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 105 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "152", 
+  "id": 1733, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00096_8.jpg", 
+  "title": "Study of a Reclining Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-reclining-figure-a00096", 
+  "width": "105"
+},
+{
+  "acno": "A00094", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1861, 
+    "startYear": 1861, 
+    "text": "c.1861"
+  }, 
+  "dateText": "c.1861", 
+  "depth": "", 
+  "dimensions": "support: 297 x 148 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "148", 
+  "id": 1731, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00094_8.jpg", 
+  "title": "Study of a Male Figure for \u2018Clerk Saunders\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-male-figure-for-clerk-saunders-a00094", 
+  "width": "297"
+},
+{
+  "acno": "A00091", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1863, 
+    "startYear": 1863, 
+    "text": "c.1863"
+  }, 
+  "dateText": "c.1863", 
+  "depth": "", 
+  "dimensions": "support: 179 x 335 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "335", 
+  "id": 1728, 
+  "inscription": null, 
+  "medium": "Graphite and chalk on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00091_8.jpg", 
+  "title": "Two Studies of a Seated Male Nude for \u2018The Liberation of St Peter\u2019 in the Church of St Michael and All Angels, Lyndhurst, Hampshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-two-studies-of-a-seated-male-nude-for-the-liberation-of-st-peter-in-the-church-a00091", 
+  "width": "179"
+},
+{
+  "acno": "A00100", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 136 x 154 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "154", 
+  "id": 20230, 
+  "inscription": null, 
+  "medium": "Graphite and chalk on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 252, 
+                "name": "Christ"
+              }, 
+              {
+                "id": 254, 
+                "name": "Virgin Mary"
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13611, 
+                "name": "Piet\u00e0"
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2594, 
+                "name": "looking down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 727, 
+                "name": "grief"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00100_8.jpg", 
+  "title": "Study of Heads for a Piet\u00e0", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-heads-for-a-pieta-a00100", 
+  "width": "136"
+},
+{
+  "acno": "A00101", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 159 x 117 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "117", 
+  "id": 1737, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00101_8.jpg", 
+  "title": "Head of a Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-of-a-girl-a00101", 
+  "width": "159"
+},
+{
+  "acno": "A00102", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 114 x 149 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "149", 
+  "id": 1738, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00102_8.jpg", 
+  "title": "Figure Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-figure-study-a00102", 
+  "width": "114"
+},
+{
+  "acno": "A00103", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1861, 
+    "startYear": 1861, 
+    "text": "c.1861"
+  }, 
+  "dateText": "c.1861", 
+  "depth": "", 
+  "dimensions": "support: 154 x 142 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "142", 
+  "id": 1739, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1554, 
+                "name": "headscarf"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00103_8.jpg", 
+  "title": "Study of the Head of a Female Attendant for \u2018The Adoration of the Kings\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-the-head-of-a-female-attendant-for-the-adoration-of-the-kings-a00103", 
+  "width": "154"
+},
+{
+  "acno": "A00104", 
+  "acquisitionYear": 1927, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "A00104_88101", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00104_88101_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 67
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00104_88101_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 135
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00104_88101_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 270
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00104_88101_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 811
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1862, 
+    "startYear": 1862, 
+    "text": "c.1862"
+  }, 
+  "dateText": "c.1862", 
+  "depth": "", 
+  "dimensions": "support: 293 x 146 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "146", 
+  "id": 20231, 
+  "inscription": null, 
+  "medium": "Graphite on paper. Verso: graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12684, 
+                "name": "Iseult"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4634, 
+                "name": "Malory, Thomas, Sir, 'Le Morte d'Arthur'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00104_8.jpg", 
+  "title": "Study of Iseult for \u2018The Marriage of Sir Tristram\u2019. Verso: Figure of Sir Tristram", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-iseult-for-the-marriage-of-sir-tristram-verso-figure-of-sir-tristram-a00104", 
+  "width": "293"
+},
+{
+  "acno": "A00199", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Arthur Boyd Houghton", 
+  "catalogueGroup": {
+    "accessionRanges": "A00197-A00210", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65238, 
+    "shortTitle": "Studies of Children"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1836, 
+      "date": "1836\u20131875", 
+      "displayOrder": 1, 
+      "fc": "Arthur Boyd Houghton", 
+      "gender": "Male", 
+      "id": 278, 
+      "mda": "Houghton, Arthur Boyd", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by H. Reitlinger 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Studies of Children", 
+  "height": "", 
+  "id": 6724, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 0, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00199", 
+  "width": ""
+},
+{
+  "acno": "A00198", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Arthur Boyd Houghton", 
+  "catalogueGroup": {
+    "accessionRanges": "A00197-A00210", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65238, 
+    "shortTitle": "Studies of Children"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1836, 
+      "date": "1836\u20131875", 
+      "displayOrder": 1, 
+      "fc": "Arthur Boyd Houghton", 
+      "gender": "Male", 
+      "id": 278, 
+      "mda": "Houghton, Arthur Boyd", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by H. Reitlinger 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Studies of Children", 
+  "height": "", 
+  "id": 6723, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 0, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00198", 
+  "width": ""
+},
+{
+  "acno": "A00197", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Arthur Boyd Houghton", 
+  "catalogueGroup": {
+    "accessionRanges": "A00197-A00210", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65238, 
+    "shortTitle": "Studies of Children"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1836, 
+      "date": "1836\u20131875", 
+      "displayOrder": 1, 
+      "fc": "Arthur Boyd Houghton", 
+      "gender": "Male", 
+      "id": 278, 
+      "mda": "Houghton, Arthur Boyd", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by H. Reitlinger 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Studies of Children", 
+  "height": "", 
+  "id": 6722, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching"
+              }, 
+              {
+                "id": 4593, 
+                "name": "head in hand/hands"
+              }, 
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00197_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00197", 
+  "width": ""
+},
+{
+  "acno": "A00116", 
+  "acquisitionYear": 1924, 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {
+    "accessionRanges": "A00111-A00127", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65673, 
+    "shortTitle": "Illustrations to Thornton's 'Pastorals of Virgil'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Herbert Linnell 1924", 
+  "dateRange": {
+    "endYear": 1821, 
+    "startYear": 1821, 
+    "text": "c. 1821, printed 1830"
+  }, 
+  "dateText": "c. 1821, printed 1830", 
+  "depth": "", 
+  "dimensions": "image: 34 x 73 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations to Thornton's 'Pastorals of Virgil'", 
+  "height": "73", 
+  "id": 19415, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10640, 
+                "name": "Philips, Ambrose, 'Imitation of Virgil's First Eclogue'"
+              }, 
+              {
+                "id": 10638, 
+                "name": "Thornton, Robert John, 'The Pastorals of Virgil ...'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4094, 
+                "name": "Virgil, 'Eclogues'"
+              }
+            ], 
+            "id": 56, 
+            "name": "classical"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4332, 
+                "name": "corn"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00116_8.jpg", 
+  "title": "The Blighted Corn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-the-blighted-corn-a00116", 
+  "width": "34"
+},
+{
+  "acno": "A01100", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Helen Beatrix Potter", 
+  "catalogueGroup": {
+    "accessionRanges": "A01089-A01110", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65490, 
+    "shortTitle": "Illustrations for 'The Tailor of Gloucester'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131943", 
+      "displayOrder": 1, 
+      "fc": "Helen Beatrix Potter", 
+      "gender": "Female", 
+      "id": 1794, 
+      "mda": "Potter, Helen Beatrix", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Capt. K.W.G. Duke RN 1946", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1902, 
+    "text": "c.1902"
+  }, 
+  "dateText": "c.1902", 
+  "depth": "", 
+  "dimensions": "support: 111 x 92 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations for 'The Tailor of Gloucester'", 
+  "height": "92", 
+  "id": 12191, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6456, 
+                "name": "Potter, Beatrix, 'The Tailor of Gloucester'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6461, 
+                "name": "embroidery"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13400, 
+                "name": "needle"
+              }, 
+              {
+                "id": 10115, 
+                "name": "thread"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4627, 
+                "name": "mouse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2799, 
+                "name": "sewing"
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01100_8.jpg", 
+  "title": "The Mice at Work: Threading the Needle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/potter-the-mice-at-work-threading-the-needle-a01100", 
+  "width": "111"
+},
+{
+  "acno": "A01101", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Helen Beatrix Potter", 
+  "catalogueGroup": {
+    "accessionRanges": "A01089-A01110", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65490, 
+    "shortTitle": "Illustrations for 'The Tailor of Gloucester'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131943", 
+      "displayOrder": 1, 
+      "fc": "Helen Beatrix Potter", 
+      "gender": "Female", 
+      "id": 1794, 
+      "mda": "Potter, Helen Beatrix", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Capt. K.W.G. Duke RN 1946", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1902, 
+    "text": "c.1902"
+  }, 
+  "dateText": "c.1902", 
+  "depth": "", 
+  "dimensions": "support: 111 x 92 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations for 'The Tailor of Gloucester'", 
+  "height": "92", 
+  "id": 12192, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6470, 
+                "name": "Gloucester - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4108, 
+                "name": "Gloucestershire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6456, 
+                "name": "Potter, Beatrix, 'The Tailor of Gloucester'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6467, 
+                "name": "alley"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1473, 
+                "name": "shop"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01101_8.jpg", 
+  "title": "Simpkin Goes Out", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/potter-simpkin-goes-out-a01101", 
+  "width": "111"
+},
+{
+  "acno": "A01102", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Helen Beatrix Potter", 
+  "catalogueGroup": {
+    "accessionRanges": "A01089-A01110", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65490, 
+    "shortTitle": "Illustrations for 'The Tailor of Gloucester'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131943", 
+      "displayOrder": 1, 
+      "fc": "Helen Beatrix Potter", 
+      "gender": "Female", 
+      "id": 1794, 
+      "mda": "Potter, Helen Beatrix", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Capt. K.W.G. Duke RN 1946", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1902, 
+    "text": "c.1902"
+  }, 
+  "dateText": "c.1902", 
+  "depth": "", 
+  "dimensions": "support: 111 x 92 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations for 'The Tailor of Gloucester'", 
+  "height": "92", 
+  "id": 12193, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6470, 
+                "name": "Gloucester - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4108, 
+                "name": "Gloucestershire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6456, 
+                "name": "Potter, Beatrix, 'The Tailor of Gloucester'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 210, 
+                "name": "streetlight"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01102_8.jpg", 
+  "title": "Simpkin in the Snowy Street", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/potter-simpkin-in-the-snowy-street-a01102", 
+  "width": "111"
+},
+{
+  "acno": "A01103", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Helen Beatrix Potter", 
+  "catalogueGroup": {
+    "accessionRanges": "A01089-A01110", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65490, 
+    "shortTitle": "Illustrations for 'The Tailor of Gloucester'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131943", 
+      "displayOrder": 1, 
+      "fc": "Helen Beatrix Potter", 
+      "gender": "Female", 
+      "id": 1794, 
+      "mda": "Potter, Helen Beatrix", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Capt. K.W.G. Duke RN 1946", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1902, 
+    "text": "c.1902"
+  }, 
+  "dateText": "c.1902", 
+  "depth": "", 
+  "dimensions": "support: 111 x 92 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations for 'The Tailor of Gloucester'", 
+  "height": "92", 
+  "id": 12194, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6470, 
+                "name": "Gloucester - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4108, 
+                "name": "Gloucestershire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6456, 
+                "name": "Potter, Beatrix, 'The Tailor of Gloucester'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01103_8.jpg", 
+  "title": "Simpkin Hears the Mice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/potter-simpkin-hears-the-mice-a01103", 
+  "width": "111"
+},
+{
+  "acno": "A01199", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69329, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01199_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01199", 
+  "width": ""
+},
+{
+  "acno": "A01198", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69328, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01198_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01198", 
+  "width": ""
+},
+{
+  "acno": "A01195", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69325, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01195_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01195", 
+  "width": ""
+},
+{
+  "acno": "A01132", 
+  "acquisitionYear": 1925, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65249, 
+    "shortTitle": "Etchings and Engravings for the 'Liber Studiorum'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by A. Acland Allen through the Art Fund 1925", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "image: 182 x 262 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "262", 
+  "id": 9210, 
+  "inscription": null, 
+  "medium": "Etching and mezzotint engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 14, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9889, 
+                "name": "Isleworth, The Alcove"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7773, 
+                "name": "pavilion"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01132_8.jpg", 
+  "title": "The Alcove, Isleworth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-alcove-isleworth-a01132", 
+  "width": "182"
+},
+{
+  "acno": "A01700", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69830, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15803, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 152, 
+            "name": "dress: nations/regions"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8493, 
+                "name": "bundle"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01700_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01700", 
+  "width": ""
+},
+{
+  "acno": "A01701", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69831, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour, ink and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01701_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01701", 
+  "width": ""
+},
+{
+  "acno": "A01710", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69840, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01710_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01710", 
+  "width": ""
+}
+}

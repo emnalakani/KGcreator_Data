@@ -1,0 +1,5514 @@
+{
+{
+  "acno": "AR00001", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "4", 
+  "dimensions": "support: 309 x 404 x 4 mm\r\nframe: 322 x 424 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "404", 
+  "id": 98171, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1964, 
+                "name": "pansy"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00001_8.jpg", 
+  "title": "Pansies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-pansies-ar00001", 
+  "width": "309"
+},
+{
+  "acno": "AR00002", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "3", 
+  "dimensions": "support: 356 x 253 x 3 mm\r\nframe: 375 x 273 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "253", 
+  "id": 98172, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4943, 
+                "name": "tulip"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00002_8.jpg", 
+  "title": "Tulips", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-tulips-ar00002", 
+  "width": "356"
+},
+{
+  "acno": "AR00003", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "3", 
+  "dimensions": "support: 196 x 238 x 3 mm\r\nframe: 216 x 256 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "238", 
+  "id": 98173, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00003_8.jpg", 
+  "title": "West Window", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-west-window-ar00003", 
+  "width": "196"
+},
+{
+  "acno": "AR00004", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1983, 
+    "startYear": 1983, 
+    "text": "1983"
+  }, 
+  "dateText": "1983", 
+  "depth": "3", 
+  "dimensions": "support: 307 x 229 x 3 mm\r\nframe: 327 x 249 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "229", 
+  "id": 98174, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1228, 
+                "name": "lily"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00004_8.jpg", 
+  "title": "Lillies Against Yellow House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-lillies-against-yellow-house-ar00004", 
+  "width": "307"
+},
+{
+  "acno": "AR00005", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1989, 
+    "startYear": 1989, 
+    "text": "1989"
+  }, 
+  "dateText": "1989", 
+  "depth": "3", 
+  "dimensions": "support: 407 x 301 x 3 mm\r\nframe: 426 x 320 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "301", 
+  "id": 98175, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00005_8.jpg", 
+  "title": "Young Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-young-trees-ar00005", 
+  "width": "407"
+},
+{
+  "acno": "AR00006", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "6", 
+  "dimensions": "support: 231 x 320 x 6 mm\r\nframe: 250 x 321 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "320", 
+  "id": 98177, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2422, 
+                "name": "daisy"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00006_8.jpg", 
+  "title": "Daisies #2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-daisies-2-ar00006", 
+  "width": "231"
+},
+{
+  "acno": "AR00007", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "6", 
+  "dimensions": "support: 231 x 320 x 6 mm\r\nframe: 251 x 315 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "320", 
+  "id": 98178, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on fibreboard", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2422, 
+                "name": "daisy"
+              }, 
+              {
+                "id": 755, 
+                "name": "grass"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00007_8.jpg", 
+  "title": "Ocean View", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-ocean-view-ar00007", 
+  "width": "231"
+},
+{
+  "acno": "AR00008", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1993, 
+    "startYear": 1993, 
+    "text": "1993"
+  }, 
+  "dateText": "1993", 
+  "depth": "4", 
+  "dimensions": "support: 230 x 302 x 4 mm\r\nframe: 250 x 321 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "302", 
+  "id": 98181, 
+  "inscription": null, 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }, 
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00008_8.jpg", 
+  "title": "Winter Branch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-winter-branch-ar00008", 
+  "width": "230"
+},
+{
+  "acno": "AR00009", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "3", 
+  "dimensions": "support: 302 x 230 x 3 mm\r\nframe: 321 x 250 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "230", 
+  "id": 98182, 
+  "inscription": null, 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00009_8.jpg", 
+  "title": "Night Branch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-night-branch-ar00009", 
+  "width": "302"
+},
+{
+  "acno": "AR00010", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "3", 
+  "dimensions": "support: 228 x 299 x 3 mm\r\nframe: 249 x 319 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "299", 
+  "id": 98183, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18007, 
+                "name": "Florida, West Palm Beach"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3053, 
+                "name": "light, electric"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }, 
+              {
+                "id": 4678, 
+                "name": "ripple"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00010_8.jpg", 
+  "title": "West Palm Beach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-west-palm-beach-ar00010", 
+  "width": "228"
+},
+{
+  "acno": "AR00011", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "", 
+  "dimensions": "support: 231 x 302 mm\r\nframe: 251 x 321 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "302", 
+  "id": 98184, 
+  "inscription": null, 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2393, 
+                "name": "afternoon"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }, 
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00011_8.jpg", 
+  "title": "3 PM, November", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-3-pm-november-ar00011", 
+  "width": "231"
+},
+{
+  "acno": "AR00013", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "4", 
+  "dimensions": "support: 234 x 306 x 4 mm\r\nframe: 250 x 324 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "306", 
+  "id": 98186, 
+  "inscription": null, 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00013_8.jpg", 
+  "title": "Green Shadow #2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-green-shadow-2-ar00013", 
+  "width": "234"
+},
+{
+  "acno": "AR00099", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "", 
+  "dimensions": "support: 298 x 414 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "414", 
+  "id": 98536, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5733, 
+                "name": "angel"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11938, 
+                "name": "whale"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00099_8.jpg", 
+  "title": "Angel Whale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-angel-whale-ar00099", 
+  "width": "298"
+},
+{
+  "acno": "AR00070", 
+  "acquisitionYear": 2008, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 Jannis Kounellis", 
+      "creativeCommons": null, 
+      "filenameBase": "AR00070_317950", 
+      "sizes": [
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "AR/AR00070_317950_7.jpg", 
+          "height": 94, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "AR/AR00070_317950_8.jpg", 
+          "height": 187, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "AR/AR00070_317950_9.jpg", 
+          "height": 534, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "AR/AR00070_317950_10.jpg", 
+          "height": 1123, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Jannis Kounellis", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "installation", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Jannis Kounellis", 
+      "gender": "Male", 
+      "id": 1438, 
+      "mda": "Kounellis, Jannis", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 2005, 
+    "startYear": 1990, 
+    "text": "1990-2005"
+  }, 
+  "dateText": "1990\u20132005", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 4250 x 1270 x 2550 mm (Variable)", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 98215, 
+  "inscription": null, 
+  "medium": "Glass, steel, coal and paraffin lamp", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10108, 
+                "name": "coal"
+              }, 
+              {
+                "id": 4990, 
+                "name": "lamp"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4847, 
+                "name": "glass"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18164, 
+                "name": "suspension"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jannis Kounellis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00070_8.jpg", 
+  "title": "Coal Sculpture with Wall of Coloured Glass", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-coal-sculpture-with-wall-of-coloured-glass-ar00070", 
+  "width": ""
+},
+{
+  "acno": "AR00100", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1953, 
+    "text": "1953-62"
+  }, 
+  "dateText": "1953\u201362", 
+  "depth": "", 
+  "dimensions": "support: 391 x 474 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "474", 
+  "id": 98537, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and oil paint on acetate", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6739, 
+                "name": "dynamism"
+              }, 
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 572, 
+                "name": "energy"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00100_8.jpg", 
+  "title": "Weird Sister", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-weird-sister-ar00100", 
+  "width": "391"
+},
+{
+  "acno": "AR00101", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "support: 193 x 122 mm", 
+  "foreignTitle": "Weisse Frau in Gras (Fairy)", 
+  "groupTitle": null, 
+  "height": "122", 
+  "id": 98539, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on card", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2153, 
+                "name": "fairy"
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00101_8.jpg", 
+  "title": "White Woman in the Grass (Fairy)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-white-woman-in-the-grass-fairy-ar00101", 
+  "width": "193"
+},
+{
+  "acno": "AR00101", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "support: 193 x 122 mm", 
+  "foreignTitle": "Weisse Frau in Gras (Fairy)", 
+  "groupTitle": null, 
+  "height": "122", 
+  "id": 98539, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on card", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2153, 
+                "name": "fairy"
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00101_8.jpg", 
+  "title": "White Woman in the Grass (Fairy)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-white-woman-in-the-grass-fairy-ar00101", 
+  "width": "193"
+},
+{
+  "acno": "AR00104", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 316 x 241 mm", 
+  "foreignTitle": "Beobachtung fur Katze", 
+  "groupTitle": null, 
+  "height": "241", 
+  "id": 98548, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00104_8.jpg", 
+  "title": "Observation on the Cat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-observation-on-the-cat-ar00104", 
+  "width": "316"
+},
+{
+  "acno": "AR00105", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1958, 
+    "startYear": 1958, 
+    "text": "1958"
+  }, 
+  "dateText": "1958", 
+  "depth": "", 
+  "dimensions": "support: 207 x 290 mm", 
+  "foreignTitle": "Aktricen", 
+  "groupTitle": null, 
+  "height": "290", 
+  "id": 98550, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1662, 
+                "name": "actor"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4671, 
+                "name": "spread-eagled"
+              }, 
+              {
+                "id": 271, 
+                "name": "walking"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3026, 
+                "name": "shamanism"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00105_8.jpg", 
+  "title": "Actresses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-actresses-ar00105", 
+  "width": "207"
+},
+{
+  "acno": "AR00126", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "support: 758 x 557 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "557", 
+  "id": 98656, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5547, 
+                "name": "rat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3123, 
+                "name": "roof"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00126_8.jpg", 
+  "title": "Night in the Rafters", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-night-in-the-rafters-ar00126", 
+  "width": "758"
+},
+{
+  "acno": "AR00199", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Robert Mapplethorpe", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1946, 
+      "date": "1946\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Robert Mapplethorpe", 
+      "gender": "Male", 
+      "id": 11413, 
+      "mda": "Mapplethorpe, Robert", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "support: 340 x 341 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "341", 
+  "id": 97255, 
+  "inscription": null, 
+  "medium": "Photograph, gelatine silver print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 15, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17868, 
+                "name": "Dominick"
+              }, 
+              {
+                "id": 17869, 
+                "name": "Elliot"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5375, 
+                "name": "stretching"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12394, 
+                "name": "bound"
+              }, 
+              {
+                "id": 10217, 
+                "name": "torture"
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6730, 
+                "name": "eroticism"
+              }, 
+              {
+                "id": 3527, 
+                "name": "homosexuality"
+              }, 
+              {
+                "id": 12648, 
+                "name": "sadomasochism"
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3631, 
+                "name": "chain"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10663, 
+                "name": "shackles"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2800, 
+                "name": "smoking"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Dominick and Elliot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mapplethorpe-dominick-and-elliot-ar00199", 
+  "width": "340"
+},
+{
+  "acno": "AR00197", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Robert Mapplethorpe", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1946, 
+      "date": "1946\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Robert Mapplethorpe", 
+      "gender": "Male", 
+      "id": 11413, 
+      "mda": "Mapplethorpe, Robert", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "support: 341 x 341 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "341", 
+  "id": 97251, 
+  "inscription": null, 
+  "medium": "Photograph, gelatine silver print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17872, 
+                "name": "Lynes, Alan"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9725, 
+                "name": "leg/legs raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2127, 
+                "name": "rope"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robert Mapplethorpe Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00197_8.jpg", 
+  "title": "Alan Lynes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mapplethorpe-alan-lynes-ar00197", 
+  "width": "341"
+},
+{
+  "acno": "AR00138", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Lawrence Weiner", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "installation", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1942, 
+      "date": "born 1942", 
+      "displayOrder": 1, 
+      "fc": "Lawrence Weiner", 
+      "gender": "Male", 
+      "id": 7743, 
+      "mda": "Weiner, Lawrence", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "", 
+  "dimensions": "Overall display dimensions variable", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 98488, 
+  "inscription": null, 
+  "medium": "Vinyl wall text", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2016, 
+                "name": "phrase"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Lawrence Weiner", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00138_8.jpg", 
+  "title": "ROUGHLY RIPPED APART", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/weiner-roughly-ripped-apart-ar00138", 
+  "width": ""
+},
+{
+  "acno": "AR00141", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Richard Hamilton", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Richard Hamilton", 
+      "gender": "Male", 
+      "id": 1244, 
+      "mda": "Hamilton, Richard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1990, 
+    "startYear": 1990, 
+    "text": "1990"
+  }, 
+  "dateText": "1990", 
+  "depth": "", 
+  "dimensions": "support, each: 755 x 754 x 32 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 95897, 
+  "inscription": null, 
+  "medium": "Oil paint and enamel on cibachrome print on 4 canvases", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8589, 
+                "name": "Hamilton, Richard"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20116, 
+                "name": "self-portraits"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Richard Hamilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00141_8.jpg", 
+  "title": "Four Self Portraits - 05.3.81", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-four-self-portraits-05381-ar00141", 
+  "width": ""
+},
+{
+  "acno": "AR00700", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 647 x 434 mm", 
+  "foreignTitle": "Filz Aktion", 
+  "groupTitle": null, 
+  "height": "434", 
+  "id": 99132, 
+  "inscription": null, 
+  "medium": "Oil paint and felt on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 423, 
+      "name": "Fluxus"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 436, 
+      "name": "Performance Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8056, 
+                "name": "protection - felt"
+              }
+            ], 
+            "id": 163, 
+            "name": "emotional states and conditions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00700_8.jpg", 
+  "title": "Felt Action", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-felt-action-ar00700", 
+  "width": "647"
+},
+{
+  "acno": "AR00701", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1984, 
+    "startYear": 1984, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "", 
+  "dimensions": "support: 417 x 296 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "296", 
+  "id": 99135, 
+  "inscription": null, 
+  "medium": "4 works on paper, graphite and paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17987, 
+                "name": "Bolognano"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1308, 
+                "name": "ecology"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00701_8.jpg", 
+  "title": "La Piantagione", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-la-piantagione-ar00701", 
+  "width": "417"
+},
+{
+  "acno": "AR00703", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Richard Long", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 2009, 
+    "startYear": 2009, 
+    "text": "2009"
+  }, 
+  "dateText": "2009", 
+  "depth": "", 
+  "dimensions": "displayed: 7200 x 3420 mm\r\ndisplayed: 4237kg\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3420", 
+  "id": 98259, 
+  "inscription": null, 
+  "medium": "Slate", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 429, 
+      "name": "Land Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4645, 
+                "name": "slate"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00703_8.jpg", 
+  "title": "Cornish Slate Ellipse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-cornish-slate-ellipse-ar00703", 
+  "width": "7200"
+},
+{
+  "acno": "AR00713", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 555 x 338 mm", 
+  "foreignTitle": "Bernd Jansen: Portraits of the D\u00fcsseldorfer Kunstzene, Fotografien 1968-1975", 
+  "groupTitle": null, 
+  "height": "338", 
+  "id": 105715, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 14, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16421, 
+                "name": "Beuys, Joseph"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18685, 
+                "name": "D\u00fcsseldorf, Ehrenhof 5, Kunstmuseum"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13610, 
+                "name": "artist, multi-media"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1069, 
+                "name": "drawing"
+              }, 
+              {
+                "id": 17464, 
+                "name": "exhibition"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18730, 
+                "name": "exhibition: 'Bernd Jansen', Kunstmuseum, D\u00fcsseldorf, 1975"
+              }
+            ], 
+            "id": 18725, 
+            "name": "arts"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00713_8.jpg", 
+  "title": "Bernd Jansen: Portraits from the D\u00fcsseldorf Art Scene, Photographs 1968-1975", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-bernd-jansen-portraits-from-the-dusseldorf-art-scene-photographs-1968-1975-ar00713", 
+  "width": "555"
+},
+{
+  "acno": "AR00751", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 892 x 675 mm", 
+  "foreignTitle": "Incontro con Beuys", 
+  "groupTitle": null, 
+  "height": "675", 
+  "id": 98687, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 0, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Together with Beuys", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-together-with-beuys-ar00751", 
+  "width": "892"
+},
+{
+  "acno": "AR00730", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "image: 296 x 209 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "209", 
+  "id": 105832, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18715, 
+                "name": "Beuys, Joseph, sculpture, 'Felt Suit'"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9339, 
+                "name": "Chinese / Japanese text"
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3201, 
+                "name": "Japan"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18759, 
+                "name": "Tokyo, Shibuya, Watari Museum of Contemporary Art"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17464, 
+                "name": "exhibition"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00730_8.jpg", 
+  "title": "A Room for Thinking of Beuys: A public exhibition to link with the spirit of Beuys, Watari Museum of Contemporary Art", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-a-room-for-thinking-of-beuys-a-public-exhibition-to-link-with-the-spirit-of-beuys-ar00730", 
+  "width": "296"
+},
+{
+  "acno": "AR00700", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 647 x 434 mm", 
+  "foreignTitle": "Filz Aktion", 
+  "groupTitle": null, 
+  "height": "434", 
+  "id": 99132, 
+  "inscription": null, 
+  "medium": "Oil paint and felt on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 423, 
+      "name": "Fluxus"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 436, 
+      "name": "Performance Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8056, 
+                "name": "protection - felt"
+              }
+            ], 
+            "id": 163, 
+            "name": "emotional states and conditions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00700_8.jpg", 
+  "title": "Felt Action", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-felt-action-ar00700", 
+  "width": "647"
+},
+{
+  "acno": "AR00701", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1984, 
+    "startYear": 1984, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "", 
+  "dimensions": "support: 417 x 296 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "296", 
+  "id": 99135, 
+  "inscription": null, 
+  "medium": "4 works on paper, graphite and paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17987, 
+                "name": "Bolognano"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1308, 
+                "name": "ecology"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00701_8.jpg", 
+  "title": "La Piantagione", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-la-piantagione-ar00701", 
+  "width": "417"
+},
+{
+  "acno": "AR00702", 
+  "acquisitionYear": 2009, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 Robert Therrien", 
+      "creativeCommons": null, 
+      "filenameBase": "AR00702_292166", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "AR/AR00702_292166_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 81
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "AR/AR00702_292166_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 161
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "AR/AR00702_292166_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 459
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "AR/AR00702_292166_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 966
+        }
+      ]
+    }, 
+    {
+      "copyright": "\u00a9 Robert Therrien", 
+      "creativeCommons": null, 
+      "filenameBase": "AR00702_292168", 
+      "sizes": [
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "AR/AR00702_292168_7.jpg", 
+          "height": 102, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "AR/AR00702_292168_8.jpg", 
+          "height": 203, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "AR/AR00702_292168_9.jpg", 
+          "height": 580, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "AR/AR00702_292168_10.jpg", 
+          "height": 1220, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }, 
+    {
+      "copyright": "\u00a9 Robert Therrien", 
+      "creativeCommons": null, 
+      "filenameBase": "AR00702_292170", 
+      "sizes": [
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "AR/AR00702_292170_7.jpg", 
+          "height": 97, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "AR/AR00702_292170_8.jpg", 
+          "height": 194, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "AR/AR00702_292170_9.jpg", 
+          "height": 552, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "AR/AR00702_292170_10.jpg", 
+          "height": 1161, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Robert Therrien", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1947, 
+      "date": "born 1947", 
+      "displayOrder": 1, 
+      "fc": "Robert Therrien", 
+      "gender": "Male", 
+      "id": 2312, 
+      "mda": "Therrien, Robert", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 2007, 
+    "startYear": 2000, 
+    "text": "2000-7"
+  }, 
+  "dateText": "2000\u20137", 
+  "depth": "", 
+  "dimensions": "displayed (internal room dimensions): 2438 x 1956 x 2667 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 98993, 
+  "inscription": null, 
+  "medium": "Organ, radio, telephone, wall clock, grill, kitchen utensils, clothes, shoes and other materials", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8559, 
+                "name": "bag"
+              }, 
+              {
+                "id": 2606, 
+                "name": "jar"
+              }, 
+              {
+                "id": 11992, 
+                "name": "trunk"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3053, 
+                "name": "light, electric"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1290, 
+                "name": "shelf"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1029, 
+                "name": "shoe"
+              }, 
+              {
+                "id": 3304, 
+                "name": "suitcase"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6852, 
+                "name": "memory"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17953, 
+                "name": "survival"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robert Therrien", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00702_8.jpg", 
+  "title": "RED ROOM", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/therrien-red-room-ar00702", 
+  "width": ""
+},
+{
+  "acno": "AR00703", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Richard Long", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 2009, 
+    "startYear": 2009, 
+    "text": "2009"
+  }, 
+  "dateText": "2009", 
+  "depth": "", 
+  "dimensions": "displayed: 7200 x 3420 mm\r\ndisplayed: 4237kg\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3420", 
+  "id": 98259, 
+  "inscription": null, 
+  "medium": "Slate", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 429, 
+      "name": "Land Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4645, 
+                "name": "slate"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00703_8.jpg", 
+  "title": "Cornish Slate Ellipse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-cornish-slate-ellipse-ar00703", 
+  "width": "7200"
+},
+{
+  "acno": "AR00707", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "image: 684 x 470 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "470", 
+  "id": 105695, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 20, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16421, 
+                "name": "Beuys, Joseph"
+              }, 
+              {
+                "id": 14979, 
+                "name": "Warhol, Andy"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 656, 
+                "name": "holding hands"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18131, 
+                "name": "Naples, Galleria Lucio Amelio"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13610, 
+                "name": "artist, multi-media"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17464, 
+                "name": "exhibition"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18839, 
+                "name": "exhibition: 'Joseph Beuys by Andy Warhol: An Encounter', Lucio Amelio Gallery, Naples, 1980"
+              }
+            ], 
+            "id": 18725, 
+            "name": "arts"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }, 
+              {
+                "id": 203, 
+                "name": "spectacles"
+              }, 
+              {
+                "id": 1639, 
+                "name": "tie"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3119, 
+                "name": "lion"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00707_8.jpg", 
+  "title": "Andy Warhol and Joseph Beuys", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-andy-warhol-and-joseph-beuys-ar00707", 
+  "width": "684"
+},
+{
+  "acno": "AR00718", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 598 x 479 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "479", 
+  "id": 98696, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18697, 
+                "name": "Z\u00fcrich, Limmatstrasse 87, Halle f\u00fcr internationale neue K\u00fcnst"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17464, 
+                "name": "exhibition"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18735, 
+                "name": "exhibition: 'Das Kapital', Halle f\u00fcr internationale neue Kunst, Zurich, 1981"
+              }
+            ], 
+            "id": 18725, 
+            "name": "arts"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4301, 
+                "name": "headphones"
+              }, 
+              {
+                "id": 3999, 
+                "name": "tape recorder"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00718_8.jpg", 
+  "title": "DAS KAPITAL 1970-77", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-das-kapital-1970-77-ar00718", 
+  "width": "598"
+},
+{
+  "acno": "AR00799", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 599 x 419 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "419", 
+  "id": 105705, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18774, 
+                "name": "Beuys, Joseph, drawing"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1977, 
+                "name": "mask"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18809, 
+                "name": "Essen, Kahrstrasse 23, Galerie Klause"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1546, 
+                "name": "bending forward"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17464, 
+                "name": "exhibition"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18808, 
+                "name": "exhibition: 'Joseph Beuys, Graphische Arbeiten', Galerie-Klause, Essen, 1977"
+              }
+            ], 
+            "id": 18725, 
+            "name": "arts"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00799_8.jpg", 
+  "title": "Joseph Beuys: Graphische Arbeiten. Galerie-klause No. 23, Essen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-joseph-beuys-graphische-arbeiten-galerie-klause-no-23-essen-ar00799", 
+  "width": "599"
+},
+{
+  "acno": "AR00798", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 598 x 424 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "424", 
+  "id": 105704, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18807, 
+                "name": "Saarbr\u00fccken"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18805, 
+                "name": "event: action, Joseph Beuys, 'Jeder Mensch ein K\u00fcnstler', Saarbr\u00fccken, 1975"
+              }
+            ], 
+            "id": 18725, 
+            "name": "arts"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16829, 
+                "name": "lecture"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00798_8.jpg", 
+  "title": "Jeder Mensch ein K\u00fcnstler?", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-jeder-mensch-ein-kunstler-ar00798", 
+  "width": "598"
+},
+{
+  "acno": "AR00758", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 847 x 588 mm", 
+  "foreignTitle": "Werke aus Munchener Sammlungen", 
+  "groupTitle": null, 
+  "height": "588", 
+  "id": 98697, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 0, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Works from the collections Munchen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-works-from-the-collections-munchen-ar00758", 
+  "width": "847"
+},
+{
+  "acno": "AR00719", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "image: 414 x 281 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "281", 
+  "id": 105735, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18698, 
+                "name": "Edinburgh, Canongate 179, Richard Demarco Gallery"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 499, 
+                "name": "name of artist"
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00719_8.jpg", 
+  "title": "Beuys is Here", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-beuys-is-here-ar00719", 
+  "width": "414"
+},
+{
+  "acno": "AR00902", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 297 x 209 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "209", 
+  "id": 105828, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16421, 
+                "name": "Beuys, Joseph"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20116, 
+                "name": "self-portraits"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13610, 
+                "name": "artist, multi-media"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19003, 
+                "name": "magazine, 'Magazin Kunst'"
+              }, 
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00902_8.jpg", 
+  "title": "Magazin KUNST", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-magazin-kunst-ar00902", 
+  "width": "297"
+},
+{
+  "acno": "AR00904", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1984, 
+    "startYear": 1984, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "", 
+  "dimensions": "image: 283 x 198 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "198", 
+  "id": 105830, 
+  "inscription": null, 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 0, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Podiumsdiskussion: Volksentscheid. Bonn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-podiumsdiskussion-volksentscheid-bonn-ar00904", 
+  "width": "283"
+}
+}
